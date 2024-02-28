@@ -13,3 +13,5 @@ function mult(a, b) {
 function divide(a, b) {
     return a % b
 }
+
+const dia=28;
